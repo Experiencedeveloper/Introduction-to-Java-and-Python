@@ -1,5 +1,5 @@
 
-## Introduction to Java
+## Introduction to Java and Python 
 Java is relatively easy to learn, especially if you have knowledge in C#, and it has plenty of tutorials, helps newcomers understand OOP features (classes, objects, inheritance, polymorphism and so on), it resembles natural language to an extent, and many advantages that make it beginner friendly. For instance, here's what a basic example in Java looks like:
 
 `public class HelloWorld {
