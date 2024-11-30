@@ -49,7 +49,9 @@ Despite its verbosity, it makes it clear and natural, so Java aims to be approac
 - **Versatility**: It is used in a wide range of fields from web development to data science.
 - **Active Community**: Python has a vast and active community, which makes it easy to find support and resources.
 ### Example in Python
-`print("Hello, World!")`
+```python
+print("Hello, World!")
+```
 
 ## Choosing the Right Programming Language 
 Java and Python both have their own strengths and weaknesses, so it is always recommended to think twice before choosing one. Java is widely used in enterprise applications, web development, Android app development and desktop applications, whereas Python is used in web development, data science, machine learning, data analysis, scientific computing, rapid prototyping, and more.
